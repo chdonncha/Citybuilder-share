@@ -10,6 +10,8 @@
 
 ## Considered Mods
 
+- [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
+- [IH missing $$$ jobs fix (update!)](https://community.simtropolis.com/files/file/22771-ih-missing-jobs-fix-update/)
 - [Industrial Revolution Mod - CAM Version](https://community.simtropolis.com/files/file/29669-industrial-revolution-mod-cam-version/)
 - [Functional Landmarks - Complete Set v1.0](https://community.simtropolis.com/files/file/21340-functional-landmarks-complete-set-v10/)
 
