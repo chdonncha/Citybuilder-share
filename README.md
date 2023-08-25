@@ -1,5 +1,28 @@
 # Simcity4-share
 
+<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#included-mods">Included Mods</a>
+    </li>
+    <li>
+      <a href="#considered-mods">Considered Mods</a>
+    </li>
+    <li>
+      <a href="#sc4-launcher-setup-steam">SC4 Launcher Setup (Steam)</a>
+      <ol>
+        <li>
+          <a href="#set-as-steam-default-target-windows">Set as Steam default target (Windows)</a>
+        </li>
+      </ol>
+    </li>
+  </ol>
+</details>
+
+
 ## Included Mods
 
 - [Industrial Revolution Mod - Base Pack (Maxis Lots)](https://community.simtropolis.com/files/file/28268-industrial-revolution-mod-base-pack-maxis-lots/)
