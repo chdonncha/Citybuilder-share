@@ -6,6 +6,9 @@ A custom SimCity 4 mod pack for an online multiplayer server
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="#installation">Installation</a>
+    </li>
+    <li>
       <a href="#all-mods">All Mods</a>
     </li>
     <li>
@@ -18,6 +21,9 @@ A custom SimCity 4 mod pack for an online multiplayer server
       <a href="#considered-mods">Considered Mods</a>
     </li>
     <li>
+      <a href="#tools-and-utilities">Tools and Utilities</a>
+    </li>
+    <li>
       <a href="#sc4-launcher-setup-steam">SC4 Launcher Setup (Steam)</a>
       <ol>
         <li>
@@ -25,8 +31,15 @@ A custom SimCity 4 mod pack for an online multiplayer server
         </li>
       </ol>
     </li>
+    <li>
+      <a href="#troubleshooting">Troubleshooting</a>
+    </li>
   </ol>
 </details>
+
+## Installation
+1. Drop this repo into your "SimCity 4 Deluxe" main directory
+2. Install all mods here - [Manual Installation Mods](#manual-installation-mods)
 
 ## All Mods
 
@@ -36,6 +49,8 @@ A custom SimCity 4 mod pack for an online multiplayer server
     - [Rail Yard and Spur Textures Mega Pack 1.02](https://community.simtropolis.com/files/file/22325-rail-yard-and-spur-mega-pak-1-version-2/)
 - ['Stupid News Ticker' Mod V1.1](https://community.simtropolis.com/files/file/21323-stupid-news-ticker-mod-v11/)
 - [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
+  - Depndencies:
+    - [4GB Patch](https://ntcore.com/?page_id=371)
 - [SC4D LEX Legacy - BSC Common Dependencies Pack](https://sc4evermore.com/index.php/downloads/download/22-dependencies/3-sc4d-lex-legacy-bsc-common-dependencies-pack)
 
 ## Included Mods
@@ -48,6 +63,7 @@ A custom SimCity 4 mod pack for an online multiplayer server
 
 Follow the link and follow the install instructions for the following mods:
 - [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
+- [4GB Patch](https://ntcore.com/?page_id=371) - [Installation Guide](#if-the-game-crashes-on-entering-a-city) - Is included in the NAM .zip or can download from link 
 - [SC4D LEX Legacy - BSC Common Dependencies Pack](https://sc4evermore.com/index.php/downloads/download/22-dependencies/3-sc4d-lex-legacy-bsc-common-dependencies-pack)
 
 ## Considered Mods
@@ -56,7 +72,15 @@ Follow the link and follow the install instructions for the following mods:
 - [Industrial Revolution Mod - CAM Version](https://community.simtropolis.com/files/file/29669-industrial-revolution-mod-cam-version/)
 - [Functional Landmarks - Complete Set v1.0](https://community.simtropolis.com/files/file/21340-functional-landmarks-complete-set-v10/)
 
-## SC4 Launcher Setup (Steam)
+<h2 id="tools-and-utilities">Tools and Utilities - Optional</h2>
+
+Required for importing custom Regions
+- [SC4 Mapper 2013](https://www.sc4evermore.com/index.php/downloads/download/28-mapping-and-terrain-tools/15-sc4-mapper)
+  - Depndencies:
+    - [4GB Patch](https://ntcore.com/?page_id=371)
+
+<h2 id="sc4-launcher-setup-steam">SC4 Launcher Setup (Steam) - Optional</h3>
+
 Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution, display modes, mod management etc...
 
 - Download Installer from: [SC4 Launcher](https://community.simtropolis.com/files/file/28544-sc4-launcher/)
@@ -67,4 +91,12 @@ Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution
 1. In the Steam game library, right-click on SimCity 4.
 2. Click "Properties".
 3. Go to the "General" tab.
-4. Add the following in "Launch Options": `C:\Program Files (x86)\Steam\steamapps\common\SimCity 4 Deluxe\SC4Launcher.exe" %command%`
+4. Add the following in "Launch Options": `"C:\Program Files (x86)\Steam\steamapps\common\SimCity 4 Deluxe\SC4Launcher.exe" %command%`
+
+## Troubleshooting
+### If the game crashes on entering a City
+
+1. Ensure that you have run the "4gb_patch.exe" included in the "Network Addon Mod" .zip
+2. Upon executing the "4gb_patch" a window will open prompting User to select an executable
+3. Select the "SimCity 4.exe" in `../SimCity 4 Deluxe\Apps` folder
+4. Message should appear saying "Executable successfully patched!"
