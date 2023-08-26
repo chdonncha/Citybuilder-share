@@ -51,7 +51,6 @@ A custom SimCity 4 mod pack for an online multiplayer server
 - [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
   - Depndencies:
     - [4GB Patch](https://ntcore.com/?page_id=371)
-- [SC4D LEX Legacy - BSC Common Dependencies Pack](https://sc4evermore.com/index.php/downloads/download/22-dependencies/3-sc4d-lex-legacy-bsc-common-dependencies-pack)
 
 ## Included Mods
 
