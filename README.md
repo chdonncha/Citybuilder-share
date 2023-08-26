@@ -1,12 +1,18 @@
 # Simcity4-share
+A custom SimCity 4 mod pack for an online multiplayer server
 
-<!-- TABLE OF CONTENTS -->
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="#all-mods">All Mods</a>
+    </li>
+    <li>
       <a href="#included-mods">Included Mods</a>
+    </li>
+    <li>
+      <a href="#manual-installation-mods">Manual Installation Mods</a>
     </li>
     <li>
       <a href="#considered-mods">Considered Mods</a>
@@ -22,18 +28,30 @@
   </ol>
 </details>
 
-
-## Included Mods
+## All Mods
 
 - [Industrial Revolution Mod - Base Pack (Maxis Lots)](https://community.simtropolis.com/files/file/28268-industrial-revolution-mod-base-pack-maxis-lots/)
   - Dependencies:
     - [SC4D LEX Legacy - BSC Common Dependencies Pack](https://sc4evermore.com/index.php/downloads/download/22-dependencies/3-sc4d-lex-legacy-bsc-common-dependencies-pack)
     - [Rail Yard and Spur Textures Mega Pack 1.02](https://community.simtropolis.com/files/file/22325-rail-yard-and-spur-mega-pak-1-version-2/)
 - ['Stupid News Ticker' Mod V1.1](https://community.simtropolis.com/files/file/21323-stupid-news-ticker-mod-v11/)
+- [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
+- [SC4D LEX Legacy - BSC Common Dependencies Pack](https://sc4evermore.com/index.php/downloads/download/22-dependencies/3-sc4d-lex-legacy-bsc-common-dependencies-pack)
+
+## Included Mods
+
+- [Industrial Revolution Mod - Base Pack (Maxis Lots)](https://community.simtropolis.com/files/file/28268-industrial-revolution-mod-base-pack-maxis-lots/)
+- [Rail Yard and Spur Textures Mega Pack 1.02](https://community.simtropolis.com/files/file/22325-rail-yard-and-spur-mega-pak-1-version-2/)
+- ['Stupid News Ticker' Mod V1.1](https://community.simtropolis.com/files/file/21323-stupid-news-ticker-mod-v11/)
+
+## Manual Installation Mods
+
+Follow the link and follow the install instructions for the following mods:
+- [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
+- [SC4D LEX Legacy - BSC Common Dependencies Pack](https://sc4evermore.com/index.php/downloads/download/22-dependencies/3-sc4d-lex-legacy-bsc-common-dependencies-pack)
 
 ## Considered Mods
 
-- [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
 - [IH missing $$$ jobs fix (update!)](https://community.simtropolis.com/files/file/22771-ih-missing-jobs-fix-update/)
 - [Industrial Revolution Mod - CAM Version](https://community.simtropolis.com/files/file/29669-industrial-revolution-mod-cam-version/)
 - [Functional Landmarks - Complete Set v1.0](https://community.simtropolis.com/files/file/21340-functional-landmarks-complete-set-v10/)
