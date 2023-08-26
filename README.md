@@ -25,6 +25,9 @@ A custom SimCity 4 mod pack for an online multiplayer server
         </li>
       </ol>
     </li>
+    <li>
+      <a href="#troubleshooting">Troubleshooting</a>
+    </li>
   </ol>
 </details>
 
@@ -68,3 +71,11 @@ Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution
 2. Click "Properties".
 3. Go to the "General" tab.
 4. Add the following in "Launch Options": `"C:\Program Files (x86)\Steam\steamapps\common\SimCity 4 Deluxe\SC4Launcher.exe" %command%`
+
+## Troubleshooting
+**If the game crashes on entering a City**
+
+- Ensure that you have run the "4gb_patch.exe" included in the "Network Addon Mod" .zip
+- Upon executing the "4gb_patch" a window will open prompting User to select an executable
+- Select the "SimCity 4.exe" in `../SimCity 4 Deluxe\Apps` folder
+- Message should appear saying "Executable successfully patched!"
