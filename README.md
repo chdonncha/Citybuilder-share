@@ -96,7 +96,7 @@ Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution
 ## Troubleshooting
 ### If the game crashes on entering a City
 
-- Ensure that you have run the "4gb_patch.exe" included in the "Network Addon Mod" .zip
-- Upon executing the "4gb_patch" a window will open prompting User to select an executable
-- Select the "SimCity 4.exe" in `../SimCity 4 Deluxe\Apps` folder
-- Message should appear saying "Executable successfully patched!"
+1. Ensure that you have run the "4gb_patch.exe" included in the "Network Addon Mod" .zip
+2. Upon executing the "4gb_patch" a window will open prompting User to select an executable
+3. Select the "SimCity 4.exe" in `../SimCity 4 Deluxe\Apps` folder
+4. Message should appear saying "Executable successfully patched!"
