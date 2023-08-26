@@ -53,7 +53,7 @@ A custom SimCity 4 mod pack for an online multiplayer server
 
 Follow the link and follow the install instructions for the following mods:
 - [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
-- [4GB Patch](https://ntcore.com/?page_id=371) - Is included in the NAM .zip or can download from link
+- [4GB Patch](https://ntcore.com/?page_id=371) - [Installation Guide](#if-the-game-crashes-on-entering-a-city) - Is included in the NAM .zip or can download from link 
 - [SC4D LEX Legacy - BSC Common Dependencies Pack](https://sc4evermore.com/index.php/downloads/download/22-dependencies/3-sc4d-lex-legacy-bsc-common-dependencies-pack)
 
 ## Considered Mods
@@ -76,7 +76,7 @@ Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution
 4. Add the following in "Launch Options": `"C:\Program Files (x86)\Steam\steamapps\common\SimCity 4 Deluxe\SC4Launcher.exe" %command%`
 
 ## Troubleshooting
-**If the game crashes on entering a City**
+### If the game crashes on entering a City
 
 - Ensure that you have run the "4gb_patch.exe" included in the "Network Addon Mod" .zip
 - Upon executing the "4gb_patch" a window will open prompting User to select an executable
