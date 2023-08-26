@@ -67,4 +67,4 @@ Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution
 1. In the Steam game library, right-click on SimCity 4.
 2. Click "Properties".
 3. Go to the "General" tab.
-4. Add the following in "Launch Options": `C:\Program Files (x86)\Steam\steamapps\common\SimCity 4 Deluxe\SC4Launcher.exe" %command%`
+4. Add the following in "Launch Options": `"C:\Program Files (x86)\Steam\steamapps\common\SimCity 4 Deluxe\SC4Launcher.exe" %command%`
