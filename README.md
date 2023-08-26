@@ -39,6 +39,8 @@ A custom SimCity 4 mod pack for an online multiplayer server
     - [Rail Yard and Spur Textures Mega Pack 1.02](https://community.simtropolis.com/files/file/22325-rail-yard-and-spur-mega-pak-1-version-2/)
 - ['Stupid News Ticker' Mod V1.1](https://community.simtropolis.com/files/file/21323-stupid-news-ticker-mod-v11/)
 - [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
+  - Depndencies:
+    - [4GB Patch](https://ntcore.com/?page_id=371)
 - [SC4D LEX Legacy - BSC Common Dependencies Pack](https://sc4evermore.com/index.php/downloads/download/22-dependencies/3-sc4d-lex-legacy-bsc-common-dependencies-pack)
 
 ## Included Mods
@@ -51,6 +53,7 @@ A custom SimCity 4 mod pack for an online multiplayer server
 
 Follow the link and follow the install instructions for the following mods:
 - [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
+- [4GB Patch](https://ntcore.com/?page_id=371) - Is included in the NAM .zip or can download from link
 - [SC4D LEX Legacy - BSC Common Dependencies Pack](https://sc4evermore.com/index.php/downloads/download/22-dependencies/3-sc4d-lex-legacy-bsc-common-dependencies-pack)
 
 ## Considered Mods
