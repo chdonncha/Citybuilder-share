@@ -72,12 +72,29 @@ Follow the link and follow the install instructions for the following mods:
 - [Industrial Revolution Mod - CAM Version](https://community.simtropolis.com/files/file/29669-industrial-revolution-mod-cam-version/)
 - [Functional Landmarks - Complete Set v1.0](https://community.simtropolis.com/files/file/21340-functional-landmarks-complete-set-v10/)
 
-<h2 id="tools-and-utilities">Tools and Utilities - Optional</h2>
+## Tools and Utilities
 
-Required for importing custom Regions
 - [SC4 Mapper 2013](https://www.sc4evermore.com/index.php/downloads/download/28-mapping-and-terrain-tools/15-sc4-mapper)
   - Depndencies:
     - [4GB Patch](https://ntcore.com/?page_id=371)
+
+### SC4 Mapper
+
+Required for importing custom Regions
+
+Can run the SC4 Mapper in `SC4_Mapper2013/SC4Mapper.exe`
+
+**Importing a Region**
+1. Download a region image
+2. Open SC4 Mapper 2013
+3. Click "Create Region"
+4. Click which option matches the file type
+5. In "Filename" find the path to the region image
+6. Click "Ok"
+7. Map should now be visibile on the screen in SC4 Mapper
+8. Click "Save Region"
+9. Region will be then saved to `C:\Users\<UserName>\Documents\SimCity 4\Regions`
+10. Can now use the new Region in SC4
 
 <h2 id="sc4-launcher-setup-steam">SC4 Launcher Setup (Steam) - Optional</h3>
 
