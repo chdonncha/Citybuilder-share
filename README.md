@@ -72,9 +72,12 @@ Follow the link and follow the install instructions for the following mods:
 - [Industrial Revolution Mod - CAM Version](https://community.simtropolis.com/files/file/29669-industrial-revolution-mod-cam-version/)
 - [Functional Landmarks - Complete Set v1.0](https://community.simtropolis.com/files/file/21340-functional-landmarks-complete-set-v10/)
 
-<h2 id="tools-and-utilities">Tools and Utilities - Optional</h2>
+## Tools and Utilities
 
 Required for importing custom Regions
+
+Can run the SC4 Mapper in `SC4_Mapper2013/SC4Mapper.exe`
+
 - [SC4 Mapper 2013](https://www.sc4evermore.com/index.php/downloads/download/28-mapping-and-terrain-tools/15-sc4-mapper)
   - Depndencies:
     - [4GB Patch](https://ntcore.com/?page_id=371)
