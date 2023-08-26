@@ -6,6 +6,9 @@ A custom SimCity 4 mod pack for an online multiplayer server
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="#installation">Installation</a>
+    </li>
+    <li>
       <a href="#all-mods">All Mods</a>
     </li>
     <li>
@@ -16,6 +19,9 @@ A custom SimCity 4 mod pack for an online multiplayer server
     </li>
     <li>
       <a href="#considered-mods">Considered Mods</a>
+    </li>
+    <li>
+      <a href="#tools-and-utilities">Tools and Utilities</a>
     </li>
     <li>
       <a href="#sc4-launcher-setup-steam">SC4 Launcher Setup (Steam)</a>
@@ -30,6 +36,10 @@ A custom SimCity 4 mod pack for an online multiplayer server
     </li>
   </ol>
 </details>
+
+## Installation
+1. Drop this repo into your "SimCity 4 Deluxe" main directory
+2. Install all mods here - [Manual Installation Mods](#manual-installation-mods)
 
 ## All Mods
 
@@ -61,6 +71,12 @@ Follow the link and follow the install instructions for the following mods:
 - [IH missing $$$ jobs fix (update!)](https://community.simtropolis.com/files/file/22771-ih-missing-jobs-fix-update/)
 - [Industrial Revolution Mod - CAM Version](https://community.simtropolis.com/files/file/29669-industrial-revolution-mod-cam-version/)
 - [Functional Landmarks - Complete Set v1.0](https://community.simtropolis.com/files/file/21340-functional-landmarks-complete-set-v10/)
+
+## Tools and Utilities
+Required for importing custom Regions
+- [SC4 Mapper 2013](https://www.sc4evermore.com/index.php/downloads/download/28-mapping-and-terrain-tools/15-sc4-mapper)
+  - Depndencies:
+    - [4GB Patch](https://ntcore.com/?page_id=371)
 
 ## SC4 Launcher Setup (Steam)
 Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution, display modes, mod management etc...
