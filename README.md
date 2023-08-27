@@ -12,7 +12,7 @@ A custom SimCity 4 mod pack for an online multiplayer server
       <a href="#all-mods">All Mods</a>
     </li>
     <li>
-      <a href="#maps">All Mods</a>
+      <a href="#maps">Maps</a>
     </li>
     <li>
       <a href="#included-mods">Included Mods</a>
@@ -61,8 +61,11 @@ A custom SimCity 4 mod pack for an online multiplayer server
 ## Maps
 
 - [Europe](https://community.simtropolis.com/files/file/5336-europe/)
+- [Western Europe](https://community.simtropolis.com/files/file/32196-western-europe/)
 - [Ireland & UK](https://community.simtropolis.com/files/file/15081-big-uk-map/)
 - [Lisbon](https://community.simtropolis.com/files/file/27357-lisbon-capital-of-portugal/)
+- [Eaton](https://community.simtropolis.com/files/file/5315-eaton/)
+- [Buffalo New York](https://community.simtropolis.com/files/file/5368-buffalo-new-york/)
 
 ## Included Mods
 
