@@ -39,6 +39,9 @@ I DO NOT claim any of these mods to be my own nor intend for this to be a form o
     <li>
       <a href="#troubleshooting">Troubleshooting</a>
     </li>
+    <li>
+      <a href="#tips-and-tricks">Tips and Tricks</a>
+    </li>
   </ol>
 </details>
 
@@ -159,3 +162,8 @@ Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution
 ### Game hangs when entering a City
 
 Due to the NAM mod when entering a City for the first time in a new Region, it may take a couple of minutes to load the first City entered.
+
+
+## Tips and Tricks
+
+Can find a list of all Hotkeys [here](https://community.simtropolis.com/omnibus/simcity-4/reference/hotkeys-used-in-simcity-4-r363/)
