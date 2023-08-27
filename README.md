@@ -1,5 +1,7 @@
 # Simcity4-share
-A custom SimCity 4 mod pack for an online multiplayer server
+A custom SimCity 4 mod pack for a personal online multiplayer server
+
+I DO NOT claim any of these mods to be my own nor intend for this to be a form of mod redistribution
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -58,6 +60,10 @@ A custom SimCity 4 mod pack for an online multiplayer server
 - [HaSkokura Castle](https://community.simtropolis.com/files/file/2311-haskokuracastle/)
 - [IH missing $$$ jobs fix (update!)](https://community.simtropolis.com/files/file/22771-ih-missing-jobs-fix-update/)
 - [Industrial Slope Effect Fix](https://community.simtropolis.com/files/file/35179-industrial-slope-effect-fix/)
+- [Tokyo Building Volume 1](https://community.simtropolis.com/files/file/29128-tokyo-building-volume-1/)
+- [Fix for Tokyo Building 1](https://community.simtropolis.com/files/file/34114-fix-for-tokyo-building-1/)
+- [asian shop](https://community.simtropolis.com/files/file/19975-asian-shop/?tab=comments#comment-509677)
+- [Asian City Block Pack](https://community.simtropolis.com/files/file/16362-asian-city-block-pack/?page=3&tab=comments#comment-439845)
  
 ## Maps
 
@@ -77,6 +83,10 @@ A custom SimCity 4 mod pack for an online multiplayer server
 - [HaSkokura Castle](https://community.simtropolis.com/files/file/2311-haskokuracastle/)
 - [IH missing $$$ jobs fix (update!)](https://community.simtropolis.com/files/file/22771-ih-missing-jobs-fix-update/)
 - [Industrial Slope Effect Fix](https://community.simtropolis.com/files/file/35179-industrial-slope-effect-fix/)
+- [Tokyo Building Volume 1](https://community.simtropolis.com/files/file/29128-tokyo-building-volume-1/)
+- [Fix for Tokyo Building 1](https://community.simtropolis.com/files/file/34114-fix-for-tokyo-building-1/)
+- [asian shop](https://community.simtropolis.com/files/file/19975-asian-shop/?tab=comments#comment-509677)
+- [Asian City Block Pack](https://community.simtropolis.com/files/file/16362-asian-city-block-pack/?page=3&tab=comments#comment-439845)
 
 ## Manual Installation Mods
 
@@ -94,6 +104,9 @@ Follow the link and follow the install instructions for the following mods:
   - [Industry Doubler](https://community.simtropolis.com/files/file/15758-industry-doubler/)
   - [Industry Quadrupler](https://community.simtropolis.com/files/file/21293-industry-quadrupler/)
 - [Less Abandonment](https://community.simtropolis.com/files/file/14931-less-abandonment/) - If implemented [Industrial Slope Effect Fix](https://community.simtropolis.com/files/file/35179-industrial-slope-effect-fix/) needs to be reinstalled and replace the `Industrial Slope Effect Fix (IHT).dat` file with `Industrial Slope Effect Fix (IHT Less Abandonment).dat`
+- [](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
+- [Water Pollution Index](https://community.simtropolis.com/files/file/35581-water-pollution-index/)
+- [SimFox Day and Nite Modd](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
 
 ## Tools and Utilities
 
