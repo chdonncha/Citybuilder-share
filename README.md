@@ -113,7 +113,7 @@ Follow the link and follow the install instructions for the following mods:
 - [Water Pollution Index](https://community.simtropolis.com/files/file/35581-water-pollution-index/)
 - [SimFox Day and Nite Modd](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
 - [Raise the UI Mod](https://community.simtropolis.com/files/file/23771-raise-the-ui-mod/) - Useful for windowed mode when taskbar blocks UI
-- [SimPeg Agricultural Mod (SPAM)](https://community.simtropolis.com/files/file/26080-simpeg-agricultural-mod-spam/#:~:text=The%20SimPeg%20Agricultural%20Mod%20(%20SPAM,only%20initially%20in%20starter%20cities.) - Overhaul and improvement to depth of Agriculture zones
+- [SimPeg Agricultural Mod (SPAM)](https://community.simtropolis.com/files/file/26080-simpeg-agricultural-mod-spam) - Overhaul and improvement to depth of Agriculture zones
 - [RCI Query Upgrade Mod](https://community.simtropolis.com/files/file/4243-rci-query-upgrade-mod/)
 - [Scoty Zoning Mod](https://community.simtropolis.com/files/file/33590-scoty-zoning-mod/)
 - [God Terraforming in Mayor Mode](https://community.simtropolis.com/files/file/20092-god-terraforming-in-mayor-mode/)
