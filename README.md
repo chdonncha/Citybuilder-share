@@ -81,6 +81,11 @@ Follow the link and follow the install instructions for the following mods:
 - [IH missing $$$ jobs fix (update!)](https://community.simtropolis.com/files/file/22771-ih-missing-jobs-fix-update/)
 - [Industrial Revolution Mod - CAM Version](https://community.simtropolis.com/files/file/29669-industrial-revolution-mod-cam-version/)
 - [Functional Landmarks - Complete Set v1.0](https://community.simtropolis.com/files/file/21340-functional-landmarks-complete-set-v10/)
+- [Industrial Revolution Mod](https://community.simtropolis.com/files/file/28268-industrial-revolution-mod-base-pack-maxis-lots/) - As a replacement for the already included Industrial Revolution mod so that can be used with Colossus Addon Mod (CAM) since base Industrial Revolution mod encounters errors when CAM is included.
+- [Colossus Addon Mod (CAM)](https://community.simtropolis.com/files/file/30956-colossus-addon-mod-cam/)
+- Industry Job multipliers:
+  - [Industry Doubler](https://community.simtropolis.com/files/file/15758-industry-doubler/)
+  - [Industry Quadrupler](https://community.simtropolis.com/files/file/21293-industry-quadrupler/) 
 
 ## Tools and Utilities
 
