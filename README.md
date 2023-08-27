@@ -54,8 +54,8 @@ A custom SimCity 4 mod pack for an online multiplayer server
 - [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
   - Depndencies:
     - [4GB Patch](https://ntcore.com/?page_id=371)
-  - [Dotonbori Glico Building](https://community.simtropolis.com/files/file/29869-dotonbori-glico-building/?sort=newest&tab=reviews#review-523047)
-  - [HaSkokura Castle](https://community.simtropolis.com/files/file/2311-haskokuracastle/)
+- [Dotonbori Glico Building](https://community.simtropolis.com/files/file/29869-dotonbori-glico-building/?sort=newest&tab=reviews#review-523047)
+- [HaSkokura Castle](https://community.simtropolis.com/files/file/2311-haskokuracastle/)
  
 ## Maps
 
