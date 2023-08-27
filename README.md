@@ -56,6 +56,7 @@ A custom SimCity 4 mod pack for an online multiplayer server
     - [4GB Patch](https://ntcore.com/?page_id=371)
 - [Dotonbori Glico Building](https://community.simtropolis.com/files/file/29869-dotonbori-glico-building/?sort=newest&tab=reviews#review-523047)
 - [HaSkokura Castle](https://community.simtropolis.com/files/file/2311-haskokuracastle/)
+- [IH missing $$$ jobs fix (update!)](https://community.simtropolis.com/files/file/22771-ih-missing-jobs-fix-update/)
  
 ## Maps
 
@@ -68,6 +69,9 @@ A custom SimCity 4 mod pack for an online multiplayer server
 - [Industrial Revolution Mod - Base Pack (Maxis Lots)](https://community.simtropolis.com/files/file/28268-industrial-revolution-mod-base-pack-maxis-lots/)
 - [Rail Yard and Spur Textures Mega Pack 1.02](https://community.simtropolis.com/files/file/22325-rail-yard-and-spur-mega-pak-1-version-2/)
 - ['Stupid News Ticker' Mod V1.1](https://community.simtropolis.com/files/file/21323-stupid-news-ticker-mod-v11/)
+- [Dotonbori Glico Building](https://community.simtropolis.com/files/file/29869-dotonbori-glico-building/?sort=newest&tab=reviews#review-523047)
+- [HaSkokura Castle](https://community.simtropolis.com/files/file/2311-haskokuracastle/)
+- [IH missing $$$ jobs fix (update!)](https://community.simtropolis.com/files/file/22771-ih-missing-jobs-fix-update/)
 
 ## Manual Installation Mods
 
@@ -78,7 +82,6 @@ Follow the link and follow the install instructions for the following mods:
 
 ## Considered Mods
 
-- [IH missing $$$ jobs fix (update!)](https://community.simtropolis.com/files/file/22771-ih-missing-jobs-fix-update/)
 - [Industrial Revolution Mod - CAM Version](https://community.simtropolis.com/files/file/29669-industrial-revolution-mod-cam-version/)
 - [Functional Landmarks - Complete Set v1.0](https://community.simtropolis.com/files/file/21340-functional-landmarks-complete-set-v10/)
 - [Industrial Revolution Mod](https://community.simtropolis.com/files/file/28268-industrial-revolution-mod-base-pack-maxis-lots/) - As a replacement for the already included Industrial Revolution mod so that can be used with Colossus Addon Mod (CAM) since base Industrial Revolution mod encounters errors when CAM is included.
