@@ -12,7 +12,7 @@ A custom SimCity 4 mod pack for an online multiplayer server
       <a href="#all-mods">All Mods</a>
     </li>
     <li>
-      <a href="#maps">All Mods</a>
+      <a href="#maps">Maps</a>
     </li>
     <li>
       <a href="#included-mods">Included Mods</a>
