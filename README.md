@@ -110,6 +110,7 @@ Follow the link and follow the install instructions for the following mods:
 - [](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
 - [Water Pollution Index](https://community.simtropolis.com/files/file/35581-water-pollution-index/)
 - [SimFox Day and Nite Modd](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
+- [Raise the UI Mod](https://community.simtropolis.com/files/file/23771-raise-the-ui-mod/) - Useful for windowed mode when taskbar blocks UI
 
 ## Tools and Utilities
 
