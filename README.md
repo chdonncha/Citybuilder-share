@@ -109,10 +109,17 @@ Follow the link and follow the install instructions for the following mods:
   - [Industry Doubler](https://community.simtropolis.com/files/file/15758-industry-doubler/)
   - [Industry Quadrupler](https://community.simtropolis.com/files/file/21293-industry-quadrupler/)
 - [Less Abandonment](https://community.simtropolis.com/files/file/14931-less-abandonment/) - If implemented [Industrial Slope Effect Fix](https://community.simtropolis.com/files/file/35179-industrial-slope-effect-fix/) needs to be reinstalled and replace the `Industrial Slope Effect Fix (IHT).dat` file with `Industrial Slope Effect Fix (IHT Less Abandonment).dat`
-- [](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
+- [SimFox Day and Nite Modd](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
 - [Water Pollution Index](https://community.simtropolis.com/files/file/35581-water-pollution-index/)
 - [SimFox Day and Nite Modd](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
 - [Raise the UI Mod](https://community.simtropolis.com/files/file/23771-raise-the-ui-mod/) - Useful for windowed mode when taskbar blocks UI
+- [SimPeg Agricultural Mod (SPAM)](https://community.simtropolis.com/files/file/26080-simpeg-agricultural-mod-spam/#:~:text=The%20SimPeg%20Agricultural%20Mod%20(%20SPAM,only%20initially%20in%20starter%20cities.) - Overhaul and improvement to depth of Agriculture zones
+- [RCI Query Upgrade Mod](https://community.simtropolis.com/files/file/4243-rci-query-upgrade-mod/)
+- [Scoty Zoning Mod](https://community.simtropolis.com/files/file/33590-scoty-zoning-mod/)
+- [God Terraforming in Mayor Mode](https://community.simtropolis.com/files/file/20092-god-terraforming-in-mayor-mode/)
+- [SimCity 4 Realism Mod 3.0 Part 1](https://community.simtropolis.com/files/file/24227-simcity-4-realism-mod-30-part-1/)
+- [SimCity 4 Realism Mod 3.0 Part 2](https://community.simtropolis.com/files/file/24228-simcity-4-realism-mod-30-part-2/)
+- [Persistent Automata Mod](https://community.simtropolis.com/files/file/23362-persistent-automata-mod/)
 
 ## Tools and Utilities
 
