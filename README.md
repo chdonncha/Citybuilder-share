@@ -57,6 +57,7 @@ A custom SimCity 4 mod pack for an online multiplayer server
 - [Dotonbori Glico Building](https://community.simtropolis.com/files/file/29869-dotonbori-glico-building/?sort=newest&tab=reviews#review-523047)
 - [HaSkokura Castle](https://community.simtropolis.com/files/file/2311-haskokuracastle/)
 - [IH missing $$$ jobs fix (update!)](https://community.simtropolis.com/files/file/22771-ih-missing-jobs-fix-update/)
+- [Industrial Slope Effect Fix](https://community.simtropolis.com/files/file/35179-industrial-slope-effect-fix/)
  
 ## Maps
 
@@ -75,6 +76,7 @@ A custom SimCity 4 mod pack for an online multiplayer server
 - [Dotonbori Glico Building](https://community.simtropolis.com/files/file/29869-dotonbori-glico-building/?sort=newest&tab=reviews#review-523047)
 - [HaSkokura Castle](https://community.simtropolis.com/files/file/2311-haskokuracastle/)
 - [IH missing $$$ jobs fix (update!)](https://community.simtropolis.com/files/file/22771-ih-missing-jobs-fix-update/)
+- [Industrial Slope Effect Fix](https://community.simtropolis.com/files/file/35179-industrial-slope-effect-fix/)
 
 ## Manual Installation Mods
 
@@ -90,7 +92,8 @@ Follow the link and follow the install instructions for the following mods:
 - [Colossus Addon Mod (CAM)](https://community.simtropolis.com/files/file/30956-colossus-addon-mod-cam/)
 - Industry Job multipliers:
   - [Industry Doubler](https://community.simtropolis.com/files/file/15758-industry-doubler/)
-  - [Industry Quadrupler](https://community.simtropolis.com/files/file/21293-industry-quadrupler/) 
+  - [Industry Quadrupler](https://community.simtropolis.com/files/file/21293-industry-quadrupler/)
+- [Less Abandonment](https://community.simtropolis.com/files/file/14931-less-abandonment/) - If implemented [Industrial Slope Effect Fix](https://community.simtropolis.com/files/file/35179-industrial-slope-effect-fix/) needs to be reinstalled and replace the `Industrial Slope Effect Fix (IHT).dat` file with `Industrial Slope Effect Fix (IHT Less Abandonment).dat`
 
 ## Tools and Utilities
 
