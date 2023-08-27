@@ -12,6 +12,9 @@ A custom SimCity 4 mod pack for an online multiplayer server
       <a href="#all-mods">All Mods</a>
     </li>
     <li>
+      <a href="#maps">All Mods</a>
+    </li>
+    <li>
       <a href="#included-mods">Included Mods</a>
     </li>
     <li>
@@ -51,6 +54,14 @@ A custom SimCity 4 mod pack for an online multiplayer server
 - [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
   - Depndencies:
     - [4GB Patch](https://ntcore.com/?page_id=371)
+  - [Dotonbori Glico Building](https://community.simtropolis.com/files/file/29869-dotonbori-glico-building/?sort=newest&tab=reviews#review-523047)
+  - [HaSkokura Castle](https://community.simtropolis.com/files/file/2311-haskokuracastle/)
+ 
+## Maps
+
+- [Europe](https://community.simtropolis.com/files/file/5336-europe/)
+- [Ireland & UK](https://community.simtropolis.com/files/file/15081-big-uk-map/)
+- [Lisbon](https://community.simtropolis.com/files/file/27357-lisbon-capital-of-portugal/)
 
 ## Included Mods
 
@@ -116,3 +127,9 @@ Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution
 2. Upon executing the "4gb_patch" a window will open prompting User to select an executable
 3. Select the "SimCity 4.exe" in `../SimCity 4 Deluxe\Apps` folder
 4. Message should appear saying "Executable successfully patched!"
+
+---
+
+### Game hangs when entering a City
+
+Due to the NAM mod when entering a City for the first time in a new Region, it may take a couple of minutes to load the first City entered.
