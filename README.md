@@ -72,6 +72,7 @@ I DO NOT claim any of these mods to be my own nor intend for this to be a form o
 - [SimCity 4 Realism Mod 3.0 Part 1](https://community.simtropolis.com/files/file/24227-simcity-4-realism-mod-30-part-1/)
 - [SimCity 4 Realism Mod 3.0 Part 2](https://community.simtropolis.com/files/file/24228-simcity-4-realism-mod-30-part-2/)
 - [SimPeg Agricultural Mod (SPAM)](https://community.simtropolis.com/files/file/26080-simpeg-agricultural-mod-spam)
+- [Canal Set](https://community.simtropolis.com/files/file/11466-canal-set/)
  
 ## Maps
 
@@ -100,6 +101,7 @@ I DO NOT claim any of these mods to be my own nor intend for this to be a form o
 - [SimCity 4 Realism Mod 3.0 Part 1](https://community.simtropolis.com/files/file/24227-simcity-4-realism-mod-30-part-1/)
 - [SimCity 4 Realism Mod 3.0 Part 2](https://community.simtropolis.com/files/file/24228-simcity-4-realism-mod-30-part-2/)
 - [SimPeg Agricultural Mod (SPAM)](https://community.simtropolis.com/files/file/26080-simpeg-agricultural-mod-spam)
+- [Canal Set](https://community.simtropolis.com/files/file/11466-canal-set/)
 
 ## Manual Installation Mods
 
