@@ -55,6 +55,7 @@ I DO NOT claim any of these mods to be my own nor intend for this to be a form o
   - Dependencies:
     - [SC4D LEX Legacy - BSC Common Dependencies Pack](https://sc4evermore.com/index.php/downloads/download/22-dependencies/3-sc4d-lex-legacy-bsc-common-dependencies-pack)
     - [Rail Yard and Spur Textures Mega Pack 1.02](https://community.simtropolis.com/files/file/22325-rail-yard-and-spur-mega-pak-1-version-2/)
+    - [PEG MTP SUPER PACK](https://community.simtropolis.com/files/file/20966-peg-mtp-super-pack/)
 - ['Stupid News Ticker' Mod V1.1](https://community.simtropolis.com/files/file/21323-stupid-news-ticker-mod-v11/)
 - [Network Addon Mod (NAM) - Cross-Platform](https://community.simtropolis.com/files/file/26793-network-addon-mod-nam-cross-platform/)
   - Depndencies:
@@ -81,6 +82,7 @@ I DO NOT claim any of these mods to be my own nor intend for this to be a form o
 
 - [Industrial Revolution Mod - Base Pack (Maxis Lots)](https://community.simtropolis.com/files/file/28268-industrial-revolution-mod-base-pack-maxis-lots/)
 - [Rail Yard and Spur Textures Mega Pack 1.02](https://community.simtropolis.com/files/file/22325-rail-yard-and-spur-mega-pak-1-version-2/)
+- [PEG MTP SUPER PACK](https://community.simtropolis.com/files/file/20966-peg-mtp-super-pack/)
 - ['Stupid News Ticker' Mod V1.1](https://community.simtropolis.com/files/file/21323-stupid-news-ticker-mod-v11/)
 - [Dotonbori Glico Building](https://community.simtropolis.com/files/file/29869-dotonbori-glico-building/?sort=newest&tab=reviews#review-523047)
 - [HaSkokura Castle](https://community.simtropolis.com/files/file/2311-haskokuracastle/)
@@ -107,9 +109,17 @@ Follow the link and follow the install instructions for the following mods:
   - [Industry Doubler](https://community.simtropolis.com/files/file/15758-industry-doubler/)
   - [Industry Quadrupler](https://community.simtropolis.com/files/file/21293-industry-quadrupler/)
 - [Less Abandonment](https://community.simtropolis.com/files/file/14931-less-abandonment/) - If implemented [Industrial Slope Effect Fix](https://community.simtropolis.com/files/file/35179-industrial-slope-effect-fix/) needs to be reinstalled and replace the `Industrial Slope Effect Fix (IHT).dat` file with `Industrial Slope Effect Fix (IHT Less Abandonment).dat`
-- [](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
+- [SimFox Day and Nite Modd](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
 - [Water Pollution Index](https://community.simtropolis.com/files/file/35581-water-pollution-index/)
 - [SimFox Day and Nite Modd](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
+- [Raise the UI Mod](https://community.simtropolis.com/files/file/23771-raise-the-ui-mod/) - Useful for windowed mode when taskbar blocks UI
+- [SimPeg Agricultural Mod (SPAM)](https://community.simtropolis.com/files/file/26080-simpeg-agricultural-mod-spam) - Overhaul and improvement to depth of Agriculture zones
+- [RCI Query Upgrade Mod](https://community.simtropolis.com/files/file/4243-rci-query-upgrade-mod/)
+- [Scoty Zoning Mod](https://community.simtropolis.com/files/file/33590-scoty-zoning-mod/)
+- [God Terraforming in Mayor Mode](https://community.simtropolis.com/files/file/20092-god-terraforming-in-mayor-mode/)
+- [SimCity 4 Realism Mod 3.0 Part 1](https://community.simtropolis.com/files/file/24227-simcity-4-realism-mod-30-part-1/)
+- [SimCity 4 Realism Mod 3.0 Part 2](https://community.simtropolis.com/files/file/24228-simcity-4-realism-mod-30-part-2/)
+- [Persistent Automata Mod](https://community.simtropolis.com/files/file/23362-persistent-automata-mod/)
 
 ## Tools and Utilities
 
