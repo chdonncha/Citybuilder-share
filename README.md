@@ -30,17 +30,12 @@ I DO NOT claim any of these mods to be my own nor intend for this to be a form o
     </li>
     <li>
       <a href="#sc4-launcher-setup-steam">SC4 Launcher Setup (Steam)</a>
-      <ol>
-        <li>
-          <a href="#set-as-steam-default-target-windows">Set as Steam default target (Windows)</a>
-        </li>
-      </ol>
     </li>
     <li>
       <a href="#troubleshooting">Troubleshooting</a>
     </li>
     <li>
-      <a href="#tips-and-tricks">Tips and Tricks</a>
+      <a href="#hotkeys">Hotkeys</a>
     </li>
   </ol>
 </details>
@@ -179,7 +174,13 @@ Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution
 
 Due to the NAM mod when entering a City for the first time in a new Region, it may take a couple of minutes to load the first City entered.
 
-
-## Tips and Tricks
-
+## Hotkeys
 Can find a list of all Hotkeys [here](https://community.simtropolis.com/omnibus/simcity-4/reference/hotkeys-used-in-simcity-4-r363/)
+
+### SimFox Day and Nite Modd - Specific Hotkeys
+
+```
+F5 = Daytime unless changed
+F6 = Night time unless changed
+F7 = Alternate day and night (game default)
+```
