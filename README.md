@@ -32,10 +32,10 @@ I DO NOT claim any of these mods to be my own nor intend for this to be a form o
       <a href="#sc4-launcher-setup-steam">SC4 Launcher Setup (Steam)</a>
     </li>
     <li>
-      <a href="#troubleshooting">Troubleshooting</a>
+      <a href="#hotkeys">Hotkeys</a>
     </li>
     <li>
-      <a href="#hotkeys">Hotkeys</a>
+      <a href="#troubleshooting">Troubleshooting</a>
     </li>
   </ol>
 </details>
@@ -160,6 +160,17 @@ Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution
 3. Go to the "General" tab.
 4. Add the following in "Launch Options": `"C:\Program Files (x86)\Steam\steamapps\common\SimCity 4 Deluxe\SC4Launcher.exe" %command%`
 
+## Hotkeys
+Can find a list of all Hotkeys [here](https://community.simtropolis.com/omnibus/simcity-4/reference/hotkeys-used-in-simcity-4-r363/)
+
+### SimFox Day and Nite Modd - Specific Hotkeys
+
+```
+F5 = Daytime unless changed
+F6 = Night time unless changed
+F7 = Alternate day and night (game default)
+```
+
 ## Troubleshooting
 ### If the game crashes on entering a City
 
@@ -173,14 +184,3 @@ Proceed with the steps to setup SC4 Launcher to avail of the enhanced resolution
 ### Game hangs when entering a City
 
 Due to the NAM mod when entering a City for the first time in a new Region, it may take a couple of minutes to load the first City entered.
-
-## Hotkeys
-Can find a list of all Hotkeys [here](https://community.simtropolis.com/omnibus/simcity-4/reference/hotkeys-used-in-simcity-4-r363/)
-
-### SimFox Day and Nite Modd - Specific Hotkeys
-
-```
-F5 = Daytime unless changed
-F6 = Night time unless changed
-F7 = Alternate day and night (game default)
-```
