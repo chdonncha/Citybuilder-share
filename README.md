@@ -68,6 +68,7 @@ I DO NOT claim any of these mods to be my own nor intend for this to be a form o
 - [SimCity 4 Realism Mod 3.0 Part 2](https://community.simtropolis.com/files/file/24228-simcity-4-realism-mod-30-part-2/)
 - [SimPeg Agricultural Mod (SPAM)](https://community.simtropolis.com/files/file/26080-simpeg-agricultural-mod-spam)
 - [Canal Set](https://community.simtropolis.com/files/file/11466-canal-set/)
+- [SimFox Day and Nite Modd](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
  
 ## Maps
 
@@ -97,6 +98,7 @@ I DO NOT claim any of these mods to be my own nor intend for this to be a form o
 - [SimCity 4 Realism Mod 3.0 Part 2](https://community.simtropolis.com/files/file/24228-simcity-4-realism-mod-30-part-2/)
 - [SimPeg Agricultural Mod (SPAM)](https://community.simtropolis.com/files/file/26080-simpeg-agricultural-mod-spam)
 - [Canal Set](https://community.simtropolis.com/files/file/11466-canal-set/)
+- [SimFox Day and Nite Modd](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
 
 ## Manual Installation Mods
 
@@ -114,9 +116,7 @@ Follow the link and follow the install instructions for the following mods:
   - [Industry Doubler](https://community.simtropolis.com/files/file/15758-industry-doubler/)
   - [Industry Quadrupler](https://community.simtropolis.com/files/file/21293-industry-quadrupler/)
 - [Less Abandonment](https://community.simtropolis.com/files/file/14931-less-abandonment/) - If implemented [Industrial Slope Effect Fix](https://community.simtropolis.com/files/file/35179-industrial-slope-effect-fix/) needs to be reinstalled and replace the `Industrial Slope Effect Fix (IHT).dat` file with `Industrial Slope Effect Fix (IHT Less Abandonment).dat`
-- [SimFox Day and Nite Modd](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
 - [Water Pollution Index](https://community.simtropolis.com/files/file/35581-water-pollution-index/)
-- [SimFox Day and Nite Modd](https://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/)
 - [Raise the UI Mod](https://community.simtropolis.com/files/file/23771-raise-the-ui-mod/) - Useful for windowed mode when taskbar blocks UI
 - [RCI Query Upgrade Mod](https://community.simtropolis.com/files/file/4243-rci-query-upgrade-mod/)
 - [Scoty Zoning Mod](https://community.simtropolis.com/files/file/33590-scoty-zoning-mod/)
