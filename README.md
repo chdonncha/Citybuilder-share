@@ -121,6 +121,7 @@ Follow the link and follow the install instructions for the following mods:
 - [RCI Query Upgrade Mod](https://community.simtropolis.com/files/file/4243-rci-query-upgrade-mod/)
 - [Scoty Zoning Mod](https://community.simtropolis.com/files/file/33590-scoty-zoning-mod/)
 - [Persistent Automata Mod](https://community.simtropolis.com/files/file/23362-persistent-automata-mod/)
+- [Modular Docks](https://community.simtropolis.com/files/file/25596-modular-docks/)
 
 ## Tools and Utilities
 
