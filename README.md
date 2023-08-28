@@ -184,3 +184,18 @@ F7 = Alternate day and night (game default)
 ### Game hangs when entering a City
 
 Due to the NAM mod when entering a City for the first time in a new Region, it may take a couple of minutes to load the first City entered.
+
+---
+
+### City shows as flat plain on Region view even though there was a City previously there
+
+- Can temporarily fix by going into the City, saving it then returning to Region view
+- May reencounter this upon restarting the game
+- Noticed this being encountered from [Commit c231cc9](https://github.com/chdonncha/Citybuilder-share/commit/c231cc9bc9ef18e3fde0c467b53f15b9f3803637) onward
+
+---
+
+### Game randomly crashing in City
+
+- Currently no known fix
+- Noticed this being encountered from [Commit c231cc9](https://github.com/chdonncha/Citybuilder-share/commit/c231cc9bc9ef18e3fde0c467b53f15b9f3803637) onward
