@@ -122,6 +122,12 @@ Follow the link and follow the install instructions for the following mods:
 - [Scoty Zoning Mod](https://community.simtropolis.com/files/file/33590-scoty-zoning-mod/)
 - [Persistent Automata Mod](https://community.simtropolis.com/files/file/23362-persistent-automata-mod/)
 - [Modular Docks](https://community.simtropolis.com/files/file/25596-modular-docks/)
+- [PEG WATER MOD Brigantine](https://community.simtropolis.com/files/file/11836-peg-water-mod-brigantine/)
+- [Pegasus CDK3 Collection](https://community.simtropolis.com/files/file/35353-pegasus-cdk3-collection/)
+- [HBS Californian Terrain Mod](https://community.simtropolis.com/files/file/22731-hbs-californian-terrain-mod/)
+- [ACB VLT Terminals and Jets Series 1 part 2](https://community.simtropolis.com/files/file/18479-acb-vlt-terminals-and-jets-series-1-part-2/)
+- [RMIP 2 Small Airport Edition Vol 2](https://community.simtropolis.com/files/file/26571-rmip-2-small-airport-edition-vol-2/)
+- [RH Airport Pack](https://community.simtropolis.com/files/file/1864-rh-airport-pack/)
 
 ## Tools and Utilities
 
