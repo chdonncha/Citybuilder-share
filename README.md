@@ -206,3 +206,11 @@ Due to the NAM mod when entering a City for the first time in a new Region, it m
 
 - Currently no known fix
 - Noticed this being encountered from [Commit c231cc9](https://github.com/chdonncha/Citybuilder-share/commit/c231cc9bc9ef18e3fde0c467b53f15b9f3803637) onward
+
+---
+
+### Invalid Token on SC4MP Connect
+
+1. Exit the launcher
+2. Open `Documents\Simcity 4\_SC4MP\_Database\servers.json` and find the entry for the server in question.
+3. Delete the entire line containing `"token":`
